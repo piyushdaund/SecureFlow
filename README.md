@@ -758,11 +758,11 @@ Recommended screenshots:
 
 ## 👨‍💻 Author
 
-**Pranav Daund**
+**Piyush Daund**
 
-Software Developer \| Web Development \| DevOps
+ DevOps 
 
--   GitHub: `https://github.com/pranavdaund`
+-   GitHub: `https://github.com/piyushdaund`
 -   LinkedIn: Add your LinkedIn profile URL
 
 ------------------------------------------------------------------------
